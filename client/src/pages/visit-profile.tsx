@@ -22,8 +22,7 @@ const VisitProfile = () => {
     return (
         <Profile
             type={`${visitProfile.name}'s`}
-            name={visitProfile.name}
-            email={visitProfile.email}
+            
             avatar={visitProfile.avatar}
             recipes={visitProfile.allRecipes}
         />
