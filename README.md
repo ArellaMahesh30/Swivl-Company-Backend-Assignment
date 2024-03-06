@@ -2,7 +2,7 @@
 
 ## Features
 
-Let'em Cook offers a variety of features, including:
+
 
 -   Responsive design: The app is optimized for different screen sizes, so it can be used on both desktop and mobile devices.
 -   Recipe sharing: Users can create, read, update, and delete their own recipes, as well as view and save recipes created by other users.
